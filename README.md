@@ -7,3 +7,8 @@ Tip Calculator is simple iOS application which calculates the ammount of tip.
 * automatically re-calculate the cost when the user change the input.
 
 <img src="https://github.com/Minamiciccc/TipCalculator/blob/media/tip_calculator.png" alt="screen shot of the app" width="200px">
+
+## Major Technologies
+- Swift
+- Git
+- Xcode
